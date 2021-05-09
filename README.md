@@ -1,2 +1,2 @@
-# weatherAPIApp
+# WeatherAPIApp
 Android Weather API App
